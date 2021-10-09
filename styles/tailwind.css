@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: "SF-Compact";
+  src: local("SF-Compact"), url(./fonts/SF_Compact.woff) format("woff");
+}
+
+@tailwind utilities;
